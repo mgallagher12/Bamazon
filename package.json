@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework Assignment #12",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgallagher12/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgallagher12/Bamazon/issues"
+  },
+  "homepage": "https://github.com/mgallagher12/Bamazon#readme"
+}
